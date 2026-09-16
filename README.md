@@ -30,9 +30,9 @@ MA in Music, Culture and Politics, Cardiff University.
 
 ## Computers
 
-I wrote my first code in BASIC in the 1980s and saved it to floppy disc. I was lucky enough to have access to some of the first laptops, which look more like desktop towers now, and I played games in monochrome. Even then I was messing around with sounds and key bindings, and generally having fun with ones and zeros.
+I started writing code in the 1980s, typing BASIC into microcomputers and saving programs to 5.25-inch floppy discs. I was lucky enough to get my hands on some early "luggable" laptops, machines that felt more like desktop towers with tiny monochrome screens, and I spent hours tweaking key bindings, hacking together crude sound effects and finding out what you could build with ones and zeros.
 
-These days I love Python. I've never been keen on Java, although I did enjoy building applets with it. I've built my own websites along the way, and now I mostly use AI to help me build the programs I need.
+That curiosity has stayed with me. I had a soft spot for Java applets when the web was young, but Python became my language of choice. Today I build learning resources and custom software by pairing my background in classical logic with AI tools, which let me design and ship ideas far faster than I could on my own.
 
 ## Music
 
