@@ -28,6 +28,8 @@ Anthropic Education, July 2026: AI Fluency for educators, Claude Code in Action,
 
 MA in Music, Culture and Politics, Cardiff University.
 
+Digital Marketing and Social Media (FWD module), Bath Spa University, 2024.
+
 ## Computers
 
 I started writing code in the 1980s, typing BASIC into microcomputers and saving programs to 5.25-inch floppy discs. I was lucky enough to get my hands on some early "luggable" laptops, machines that felt more like desktop towers with tiny monochrome screens, and I spent hours tweaking key bindings, hacking together crude sound effects and finding out what you could build with ones and zeros.
