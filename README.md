@@ -1,4 +1,4 @@
-<!-- ASCII G clef animation goes here once the logo is final -->
+<p align="center"><img src="assets/codedharmony-circuit.svg" width="652" alt="A treble clef drawn as a working 1980s circuit board, hidden in ASCII characters. A switch closes, current runs through the circuit and the clef lights up."></p>
 
 # Rhayn Jooste
 
