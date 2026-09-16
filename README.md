@@ -11,9 +11,11 @@ Now I'm applying both to digital learning with AI-assisted workflows, and I writ
 ## Current work
 
 **[n8n-job-search-template](https://github.com/CodedHarmony/n8n-job-search-template)**
+
 A self-hosted n8n workflow that watches job boards on a schedule, screens the results with a local LLM and emails the matches. If the LLM is unreachable, every job is still sent with a warning banner, so a broken screening layer gets louder rather than quieter.
 
 **[Show Your Working](https://rhaynjooste.com/show-your-working/)**
+
 Build logs on learning design, AI fluency and automation, with the method and the build steps left in.
 
 - [A Successful Response Is Not a Successful Result](https://rhaynjooste.com/show-your-working/a-successful-response-is-not-a-successful-result/)
